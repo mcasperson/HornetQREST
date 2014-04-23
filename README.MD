@@ -1,0 +1,1 @@
+This is an instance of the HornetQ REST server, created from the documentation at http://docs.jboss.org/hornetq/2.4.0.Final/docs/user-manual/html_single/#d0e12353.
